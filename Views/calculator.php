@@ -13,8 +13,11 @@
 </head>
 <body>
 
-    <h1>Calculadora - Strategico Tech</h1>
-    
+<div id="container-logo">
+    <img id="logo" src="./Public/img/logo.png">
+    <h1>Calculadora - StrategicoTech</h1>
+</div>
+
     <form method="POST" id="formulario">
         <label for="num1">Número 1:</label>
         <input type="number" id="num1" placeholder="Ingrese el Primer Número" required>
