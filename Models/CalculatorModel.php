@@ -37,7 +37,7 @@ class CalculatorModel {
 
         // Verificar el código de respuesta HTTP de la API externa
         if ($httpCode !== 200) {
-            return array("error" => "Error en la Operación");
+            return array("error" => "División por cero no permitida");
         }
 
         // Decodificar la respuesta JSON de la API y devolverla
