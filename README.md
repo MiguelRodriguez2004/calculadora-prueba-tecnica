@@ -8,10 +8,10 @@ El objetivo de este proyecto es evaluar las habilidades en el desarrollo full st
 
 #### Instrucciones de Ejecución
 
-***IMPORTANTE: Recuerda que para comenzar a interactuar con el proyecto ya debes de tener parametrizado la API externa en tu servidor local. 
-Realiza el proceso por medio del siguiente repositorio de Github donde esta el paso a paso para configurarlo correctamente. ***
+IMPORTANTE: Recuerda que para comenzar a interactuar con el proyecto ya debes de tener parametrizado la API externa en tu servidor local. 
+Realiza el proceso por medio del siguiente repositorio de Github donde esta el paso a paso para configurarlo correctamente.
 
-**Link del Repositorio: **https://github.com/MiguelRodriguez2004/calculadora-api
+Link del Repositorio: https://github.com/MiguelRodriguez2004/calculadora-api
 
 1. Configura tu entorno local de desarrollo (Apache - XAMPP, PHP).
 2. Clona el repositorio desde GitHub: git clone https://github.com/MiguelRodriguez2004/calculadora-prueba-tecnica.git, importante que sea clonado en la carpeta HTDOCS dentro de la raiz en donde fue instalado XAMPP.
